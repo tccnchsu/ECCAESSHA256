@@ -1,4 +1,10 @@
 # ECCAESSHA256
+
+
+GEO和TCGA数据库挖掘文章思路
+https://shengxin.ren/article/391
+
+
 ECCAESSHA256
 
 
